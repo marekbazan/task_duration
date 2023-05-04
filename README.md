@@ -1,9 +1,9 @@
 
-# Aonymized task duration data
+# Anonymized task duration data
 # for research purposes
 
-Marek Bazan, Aleksy Migasiewicz, Maciej Marchwiany
-April 2023 JT Weston, Warsaw, Wrocław University of Science and Technology, Wrocław, Poland
+Marek Bazan, Aleksy Migasiewicz, Maciej Marchwiany <br>
+April 2023 JT Weston, Warsaw, Wrocław University of Science and Technology, Wrocław, Poland<br>
 
 
 GPL License
@@ -26,3 +26,6 @@ different values should be used in different places. The character encoding whic
 Duration data that is longer than 120 minutes should be shrunk do 120 minutes.
 
 In case of any question do not hesitate to ask via email marek.bazan@pwr.edu.pl.
+
+If used please cite as <br>
+M.Bazan, A. Migasiewicz, M.E.Marchwiany, Task duration prediction from a textual description, 2023.
