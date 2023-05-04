@@ -8,16 +8,16 @@ April 2023 JT Weston, Warsaw, Wrocław University of Science and Technology, Wro
 
 GPL License
 
-The mask are<br>
-[name]<br>
-[name and surname]<br>
-[OrgName]<br>
-[place name]<br>
-[geogr name]<br>
-[link]<br>
-[email address]<br>
-[ID]<br>
-[product name]<br>
+The masks are<br>
+[name],<br>
+[name and surname],<br>
+[OrgName],<br>
+[place name],<br>
+[geogr name],<br>
+[link],<br>
+[email address],<br>
+[ID],<br>
+[product name],<br>
 [Bank Name].<br>
 
 To use data one needs to replace masks for the appropriate random data. If the same mask occurs in the same email message then
