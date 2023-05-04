@@ -17,6 +17,8 @@ Mask are
 [link]
 [email address]
 [ID]
+[product name]
+[Bank Name]
 
 To use data one needs to replace masks for the appropriate random data. If the same mask occurs in the same email message then
 different values should be used in different places. The character encoding which is used is utf-8.
